@@ -42,7 +42,7 @@ doing things. They have a vast body of experience that they can tap into and app
 - - -
 
 
-#### Moving up the stairs 🛫
+### Moving up the stairs 🛫
 > 1. Only dead fish go with the flow
 > 
 > 2. If it works then its pragmatic
